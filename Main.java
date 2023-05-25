@@ -6,12 +6,6 @@
                 2. use sorting technique
                 3. adding of attendance as A and P for any number of days should be done according to
                 the user using Linked List only
-
-                                                Shreya 21csu096
-                                                Somil 21csu100
-                                                Soha 21csu099
-                                                Sidhant 21csu098
-
 */
 
 import java.util.*;
